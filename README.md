@@ -1,15 +1,6 @@
-## Description
-            README generator
-            ## Installaion
-            no
-            ## Usage
-            tbc
-            ## Contributing
-            me
-            ## Tests
-            no
-            ## Questions
-            mail@mail.com
-            ## Licence
-            MIT;
-            
+README  Generator using Node
+
+Description
+An application taht allows a user to craete a README document. This is done by answering questions providied. 
+
+
